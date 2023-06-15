@@ -1,0 +1,17 @@
+.title1 {
+    color: gray;
+    font-size: 32px;
+}
+  
+.title2 {
+    color: green;
+    font-size: 36px;
+}
+
+.descricao {
+    color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
