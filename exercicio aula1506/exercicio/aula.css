@@ -1,0 +1,30 @@
+#meuFormulario{
+    margin: 0 auto;
+    background-color: beige;
+    width: 600px;
+    
+}
+h1{
+    text-align: center;
+}
+input{
+    width:100%;
+   
+}
+select{
+    width:100%;
+    margin-bottom: 10px;
+}
+ 
+small{
+    color: red;
+    
+}
+
+label{
+    margin-top: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}

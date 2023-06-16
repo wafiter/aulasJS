@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXERCICIO 1</title>
+    <link rel="stylesheet" href="aula.css">
+    <script defer src="aula.js"></script>
+
+</head>
+<body>
+    <main>
+        <form id="meuForm">
+
+            <h1>Cadastro de Produto</h1>
+            <section>
+                <label for="codigo">Codigo:</label>
+                <input type="number" id="codigo" name="codigo" />
+                <small></small>
+            </section>
+            <section>
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome">
+                <small></small>
+            </section>
+            <section>
+                <label for="categoria">Categoria</label>
+                <select id="categoria" nome="categoria">
+                    <option value="Alimento">Alimento</option>
+                    <option value="Limpeza">Limpeza</option>
+                    <option value="Higiene">Higiene</option>
+                </select>   
+                <small></small>
+            </section>
+            <section>
+                <label for="preco">Preço</label>
+                <input type="text" id="preco" nome="preco">
+                <small></small>
+            </section>
+            <section>
+                <label for="quantidade">Quantidade</label>
+                <input type="number" id="quantidade" nome="quantidade" >
+                <small></small>
+            </section>
+            <button type="submit" >CADASTRAR </button>
+
+        </form>
+    
+        <div id="produtoCadastrado">
+        <h1></h1>
+        <p id="pcategoria"></p>
+        <p id="ppreco"></p>
+        <p id="pquantidade"></p>
+        <p id="valorEstoque"></p>
+        </div>
+</main>    
+</body>
+</html>
