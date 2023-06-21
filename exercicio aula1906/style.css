@@ -1,0 +1,26 @@
+.card{
+    width: 600px;
+    display: flex;
+    background-color: rgba(169, 169, 169, 0.842);
+    margin-left: 20px;
+    border: solid 1px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+img{
+    margin-right: 20px;
+    margin-left: 30px;
+    width: 300px;
+    border-radius: 5px;
+    
+}
+
+#content{
+    flex-wrap: wrap;
+    display: flex;   
+    width: 1400px;
+    
+    
+}

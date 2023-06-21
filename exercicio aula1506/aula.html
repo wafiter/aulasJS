@@ -6,6 +6,10 @@
     <title>EXERCICIO 1</title>
     <link rel="stylesheet" href="aula.css">
     <script defer src="aula.js"></script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 
 </head>
 <body>
@@ -25,7 +29,8 @@
             </section>
             <section>
                 <label for="categoria">Categoria</label>
-                <select id="categoria" nome="categoria">
+                <select id="categoria" name="categoria">
+                    <option value="Selecione">Selecione</option>
                     <option value="Alimento">Alimento</option>
                     <option value="Limpeza">Limpeza</option>
                     <option value="Higiene">Higiene</option>
@@ -34,7 +39,7 @@
             </section>
             <section>
                 <label for="preco">Preço</label>
-                <input type="text" id="preco" nome="preco">
+                <input type="number" id="preco" nome="preco">
                 <small></small>
             </section>
             <section>
@@ -42,17 +47,14 @@
                 <input type="number" id="quantidade" nome="quantidade" >
                 <small></small>
             </section>
-            <button type="submit" >CADASTRAR </button>
-
+            <button id="cadastrar" type="submit" >CADASTRAR </button>
+            <h3 style="text-align: center;"></h3>
         </form>
-    
+        <b></b>
         <div id="produtoCadastrado">
-        <h1></h1>
-        <p id="pcategoria"></p>
-        <p id="ppreco"></p>
-        <p id="pquantidade"></p>
-        <p id="valorEstoque"></p>
+       
         </div>
 </main>    
 </body>
 </html>
+

@@ -1,0 +1,53 @@
+#meuForm{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    width: 600px;
+    
+}
+h1{
+    text-align: center;
+}
+input{
+    width:100%;
+    padding: 10px;
+    
+   
+}
+select{
+    padding: 10px;
+    width:104%;
+    margin-bottom: 10px;
+}
+ 
+small{
+    color: red;
+    
+}
+
+label{
+    margin-top: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+#cadastrar{
+   
+    width: 104%;
+    padding: 10px;
+    background-color: rgb(107, 191, 240);
+    border-radius:10px;
+}
+.divx{
+    display: flex;
+    justify-content: space-between;
+}
+
+#produtoCadastrado{ 
+    width: 600px;
+    margin: 0 auto;
+    border: solid 2px;
+    padding: 10px;
+    color: gre;
+}

@@ -1,0 +1,70 @@
+#modalConteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 900px;
+    color: rgb(5, 17, 17);
+    font-size: 24px;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: outset;
+}
+#fexarmodal{
+    color:white;
+    width: 230px;
+    height: 40px;
+    padding: 5px;
+    background-color: rgb(108, 108, 184);
+    border-style: none;
+    border-radius: 20px;
+
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#meuModal{
+    background-color: rgba(128, 128, 128, 0.486);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: none;
+    
+}
+
+#formulario{
+    background-color: rgb(48, 206, 218);
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+button{
+    margin-top: 15px;
+    width: 103%;
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
