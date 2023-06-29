@@ -1,0 +1,81 @@
+{
+  "noticias": [
+    {
+      "titulo": "Chefe de grupo mercenário acusa Rússia de bombardear suas bases e promete retaliação; governo o acusa de instigar motim",
+      "autor": "wafiter",
+      "imagem": "https://s2-g1.glbimg.com/3z-nGAibfspS3DJq673Z0UX3fJY=/0x0:1110x624/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/0/Y/6kGSDFR6as2y8F4ae4nA/64358284-906.jpg",
+      "texto": "Yevgeny Prigozhin, chefe do grupo mercenário Wagner, que apoia a Rússia na guerra, acusou nesta sexta-feira (23) o próprio Ministério de Defesa da Rússia de atacar acampamentos da organização dele. Uma enorme quantidade de combatentes do grupo teria morrido. Prigozhin prometeu retaliação.",
+      "id": 2
+    },
+    {
+      "titulo": "Bandeiras de Elza Soares permanecem hasteadas no álbum póstumo 'No tempo da intolerância'",
+      "autor": "wafiter",
+      "imagem": "https://s2-g1.glbimg.com/b7tXR-slZZ_uPRoQbLkJgQTs0L0=/281x1069:2681x2419/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/C/wgTbAsSNax9IitNzGDLQ/capa-elza-soares-no-tempo-da-intolerancia.jpg",
+      "texto": "♪ A voz transcendental de Elza Soares (23 de junho ou 22 de julho de 1930 – 20 de janeiro de 2022) reverbera com coerência ao longo das dez faixas do álbum póstumo No tempo da intolerância. Formatado pelo produtor musical Rafael Ramos no estúdio Tambor, da gravadora Deck, o disco mantém hasteadas as bandeiras sociais da artista carioca, voz altiva que se levantou contra o racismo, as injustiças sociais e a opressão das mulheres no mundo patriarcal.",
+      "id": 3
+    },
+    {
+      "titulo": "PF destrói maquinários em operação que investiga extração ilegal de madeira no Parque Indígena do Xingu em MT",
+      "autor": "wafiter",
+      "imagem": "https://s2-g1.glbimg.com/qTD7ky7A09A_gQWyjd1S2jq0hG0=/0x0:1136x639/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/A/AFra8XTGaKtRHfTUi2OQ/xingu.jpg",
+      "texto": "A Polícia Federal (PF) destruiu maquinários, nesta sexta-feira (23), durante a Operação Prepori que investiga extração ilegal de madeira no Parque Indígena do Xingu, em Mato Grosso. Durante as investigações, os policiais descobriram a atuação de uma organização criminosa composta por madeireiros locais e alguns líderes indígenas.",
+      "id": 4
+    },
+    {
+      "titulo": "Imposto de Renda 2023: consulta ao 2º lote da restituição começa nesta sexta-feira; saiba como fazer",
+      "autor": "wafiter",
+      "imagem": "https://s2-g1.glbimg.com/CfHEUnunIRATMiszdkNFF9FiPCI=/0x0:1915x1077/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/X/0/Hh5BB9Rpu5Jq2M0Szimg/ir-abre-destaque-02.png",
+      "texto": "A Receita Federal lembrou que também disponibiliza um aplicativo para tablets e smartphones que permite consultar diretamente nas bases do Fisco informações sobre liberação das restituições do IRPF e a situação cadastral de uma inscrição no CPF.",
+      "id": 5
+    },
+    {
+      "titulo": "eweqwewqewq",
+      "autor": {},
+      "imagem": "4324",
+      "texto": "fdgfdgfd",
+      "id": 6
+    },
+    {
+      "titulo": "eweqwewqewq",
+      "autor": {
+        "nome": "joãozinho2",
+        "id": 2
+      },
+      "imagem": "4324",
+      "texto": "wqewqewq",
+      "id": 7
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "nome": "joãozinho1",
+      "cargo": "criador de conteudo"
+    },
+    {
+      "id": 2,
+      "nome": "joãozinho2",
+      "cargo": "criador de conteudo"
+    },
+    {
+      "id": 2,
+      "nome": "joãozinho2",
+      "cargo": "criador de conteudo"
+    },
+    {
+      "id": 3,
+      "nome": "joãozinho3",
+      "cargo": "criador de conteudo"
+    },
+    {
+      "id": 4,
+      "nome": "joãozinho4",
+      "cargo": "criador de conteudo"
+    },
+    {
+      "id": 5,
+      "nome": "joãozinho5",
+      "cargo": "criador de conteudo"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+#navBar {
+  background-color: #6950a1;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  color: white;
+}
+#imgLogo {
+  width: 100px;
+  height: 30px;
+  margin-left: 10px;
+}
+#adicionar {
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+  background-color: #fbb04d;
+  border: none;
+  border-radius: 5px;
+}
+
+.noticias {
+  width: 1000px;
+  border: solid 1px;
+  display: flex;
+  padding: 15px;
+  margin-top: 10px;
+  position: relative;
+}
+
+.imgNoticias {
+  width: 300px;
+  height: 300px;
+}
+
+.texto {
+  margin-left: 15px;
+}
+
+/* formulario */
+.label {
+  color: rgb(15, 15, 15);
+}
+input,select {
+  width: 690px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: solid 1px;
+  border-color: #6950a1;
+}
+textarea {
+  width: 99.2%;
+  border-radius: 5px;
+  border: solid 1px;
+  border-color: #6950a1;
+}
+#btnForm {
+  width: 100%;
+  padding: 15px;
+  background-color: #6950a1;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+#formEditNoticia {
+  width: 50%;
+  margin: 0 auto;
+}
+#formNoticia {
+  width: 50%;
+  margin: 0 auto;
+}
+.conteiner {
+  margin-top: 50px;
+  font-size: x-large;
+}
+.voltaIndex {
+  color: white;
+  font-size: x-large;
+}
+
+/* botões */
+
+.botoes {
+  margin-right: 3000 px;
+  position: absolute;
+  margin-left: 550px;
+}
+.editar {
+  background-color: #6950a1;
+  color: white;
+  padding: 2px;
+  margin-right: 10px;
+  width: 60px;
+  border-color: #6950a1;
+  border-radius: 5px;
+}
+.excluir {
+  background-color: white;
+  padding: 2px;
+  width: 60px;
+  border-radius: 5px;
+}
+

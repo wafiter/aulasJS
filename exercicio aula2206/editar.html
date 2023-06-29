@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Editar Noticia</title>
+    <script src="JS/editar.js" defer></script>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <html>
+    <body onload="carregarDados() ">
+      <nav id="navBar">
+        <img id="imgLogo" src="img/images (1).png" alt="" />
+        <h3>Editar Noticia</h3>
+        <a class="voltaIndex" href="index.html">voltar</a>
+      </nav>
+      <div class="conteiner">
+        <form id="formEditNoticia">
+          <section>
+            <label class="label" for="titulo">Titulo:</label>
+            <input type="text" id="titulo" name="titulo" />
+          </section>
+          
+          <input name="autores" id="autores" >
+            
+            
+          </input>
+          <section>
+            <label class="label" for="imagem">Imagem de destaque:</label>
+            <input type="text" id="imagem" name="imagem" />
+          </section>
+          <section>
+            <label class="label" for="texto">Texto:</label>
+            <textarea name="texto" id="texto" cols="30" rows="10"></textarea>
+          </section>
+          <button type="submit" id="btnForm">Salvar</button>
+        </form>
+      </div>
+    </body>
+  </html>
+</html>

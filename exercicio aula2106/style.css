@@ -1,0 +1,81 @@
+img{
+    width: 300px;
+    height: 200px;
+}
+.nomes{
+    text-align: center;
+    color: chocolate;
+}
+
+.btnEx{
+    width: 300px;
+    color: white;
+    background-color: chocolate;
+    font-weight: 600;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+
+}
+#card{
+    margin-left: 10px;
+    margin-top:5px;
+    margin-bottom: 10px;
+    width: 300px;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#modal{
+    display: none;
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    overflow: auto;
+}
+
+#modalConteudo{
+    background-color: white;
+    width:50%;
+    margin: 200px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+#closeButton{
+    margin-left: 690px;
+    border: none;
+    background-color: white;
+    font-weight: bold;
+}
+#nome{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: chocolate;
+}
+
+#conteiner{
+    width: 1270px;
+       
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+h1{
+    background-color: white;
+    text-align: center;
+    color: chocolate;
+}
+body{
+    
+    background-color: rgb(179, 179, 179);
+    font-family: 'Poppins', sans-serif;
+}
